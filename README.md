@@ -14,12 +14,12 @@ from other locations in the UK to increase the data set.
 
 The information in each job advert on Indeed includes:
 
-Job Title <br/>
-Company <br/>
-Location <br/>
-Contract Type* <br/>
-Salary* <br/>
-Job Description <br/>
+- Job Title <br/>
+- Company <br/>
+- Location <br/>
+- Contract Type* <br/>
+- Salary* <br/>
+- Job Description <br/>
 
 *not included in every job advert. Contract Type (permanent, contract etc.) was only provided 40% of the time and Salary approximately 50% of the time.
 
@@ -38,10 +38,10 @@ Job titles into the following categories:
 Contract types are classed as the following:
 
 Contract: Anything that has 'contract' or 'temporary' associated with it <br/>
-Apprenticeship <br/>
-Internship <br/>
-Part-Time <br/>
-Permanent: Any contract that is classed as 'Full-time' or 'Permanent' <br/>
+- Apprenticeship <br/>
+- Internship <br/>
+- Part-Time
+- Permanent: Any contract that is classed as 'Full-time' or 'Permanent' <br/>
 
 ## 3. Topic Modelling
 

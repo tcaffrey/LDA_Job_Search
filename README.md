@@ -13,6 +13,7 @@ from other locations in the UK to increase the data set.
 ## 1. Scraping Job Adverts
 
 The information in each job advert on Indeed includes:
+
 Job Title <br/>
 Company <br/>
 Location <br/>
@@ -42,7 +43,16 @@ Internship <br/>
 Part-Time <br/>
 Permanent: Any contract that is classed as 'Full-time' or 'Permanent' <br/>
 
+## 3. Topic Modelling
 
+Testing a variety of LDA models using a range of topic numbers resulted in the chosen model containing 9 topics with a coherence score
+of 0.475.
 
+2 of the 9 topics are related to recruiter information (such as equal opportunities or referral schemes). However the remaining topics are related to Data Science and cover the following areas:
 
+- Analytics & Statistical Modelling
+- Deep Learning, NLP & Computer Vision
+- Machine Learning, Big Data & Cloud Computing
+- Building Products
+- Project Management and supporting clients
 

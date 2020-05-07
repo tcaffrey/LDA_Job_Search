@@ -1,5 +1,5 @@
 # Improving a Data Science job search with NLP and LDA
-*Scraping Indeed for job adverts and applying NLP and LDA modelling
+*Scraping Indeed for job adverts and applying NLP and LDA modelling*
 
 The notebook is divided into 3 sections:
 
@@ -13,11 +13,11 @@ from other locations in the UK to increase the data set.
 ## 1. Scraping Job Adverts
 
 The information in each job advert on Indeed includes:
-Job Title
-Company
-Location
-Contract Type*
-Salary*
-Job Description
+Job Title\
+Company\
+Location\
+Contract Type*\
+Salary*\
+Job Description\
 
-\*not included in every job advert. Contract Type (permanent, contract etc.) was only provided 40% of the time and Salary approximately 50% of the time.
+*not included in every job advert. Contract Type (permanent, contract etc.) was only provided 40% of the time and Salary approximately 50% of the time.

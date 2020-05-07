@@ -14,12 +14,12 @@ from other locations in the UK to increase the data set.
 
 The information in each job advert on Indeed includes:
 
-- Job Title <br/>
-- Company <br/>
-- Location <br/>
-- Contract Type* <br/>
-- Salary* <br/>
-- Job Description <br/>
+- Job Title
+- Company
+- Location
+- Contract Type*
+- Salary*
+- Job Description
 
 *not included in every job advert. Contract Type (permanent, contract etc.) was only provided 40% of the time and Salary approximately 50% of the time.
 
@@ -29,19 +29,19 @@ Within this section I've allocated new job title and contract type categories ba
 ### Job Titles 
 Job titles into the following categories:
 
-- Lead: Any title containing lead, chief, head or manager <br/>
-- Senior: Any title containing senior or principal <br/>
-- Graduate: Any title containing graduate <br/>
-- Regular: Will class anything else as a regular role <br/>
+- Lead: Any title containing lead, chief, head or manager
+- Senior: Any title containing senior or principal
+- Graduate: Any title containing graduate
+- Regular: Will class anything else as a regular role
 
 ### Contract Type
 Contract types are classed as the following:
 
 Contract: Anything that has 'contract' or 'temporary' associated with it <br/>
-- Apprenticeship <br/>
-- Internship <br/>
+- Apprenticeship
+- Internship
 - Part-Time
-- Permanent: Any contract that is classed as 'Full-time' or 'Permanent' <br/>
+- Permanent: Any contract that is classed as 'Full-time' or 'Permanent'
 
 ## 3. Topic Modelling
 

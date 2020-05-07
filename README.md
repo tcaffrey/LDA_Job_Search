@@ -37,7 +37,7 @@ Job titles into the following categories:
 ### Contract Type
 Contract types are classed as the following:
 
-Contract: Anything that has 'contract' or 'temporary' associated with it <br/>
+- Contract: Anything that has 'contract' or 'temporary' associated with it
 - Apprenticeship
 - Internship
 - Part-Time
